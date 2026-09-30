@@ -192,7 +192,7 @@ img {
             rgba(11, 13, 18, 0.9),
             rgba(11, 13, 18, 0.3)
         ),
-        url("../img/main52.gif") center / cover no-repeat;
+        url("img/main52.gif") center / cover no-repeat;
 
     border-bottom: 1px solid #252a35;
 
